@@ -33,9 +33,7 @@ Entropy(s)= -P(yes)log2 P(yes)- P(no) log2 P(no)
 
 Where,
 S= Total number of samples.
-
 P(yes)= probability of yes.
-
 P(no)= probability of no.
 
 Gini Index:
