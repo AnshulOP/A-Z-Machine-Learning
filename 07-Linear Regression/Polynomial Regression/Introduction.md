@@ -1,4 +1,4 @@
-                                                         Polynomial Raegression
+                                                          Polynomial Raegression
 
 Polynomial Regression is a regression algorithm that models the relationship between a dependent(y) and independent variable(x) as nth degree polynomial.
 Polynomial regression is a form of Linear regression where only due to the Non-linear relationship between dependent and independent variables we add some polynomial terms to linear regression to convert it into Polynomial regression.
@@ -13,7 +13,7 @@ Consider an example my input value is 35 and the degree of a polynomial is 2 so 
 
 The equation of polynomial becomes something like this :-
 
-y= b0+b1x^1+ b2x1^2+ b2x1^3+...... bnx1^n
+y= b0+b1x^1+ b2x1^2+ b2x1^3+...... bnx1^n.
 
 Types of Polynomials :-
 1. Linear ---> ax + b = 0
